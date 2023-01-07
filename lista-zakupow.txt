@@ -3,3 +3,4 @@ chleb 4,40
 masło 11,00
 jabłka 2,50
 cebula 1,50
+podsumowanie 2023.01.07
